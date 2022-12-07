@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SPMFramework",
-            path: "xcframeworks/SPMFramework.framework"
+            path: "xcframeworks/SPMFramework.xcframework"
         )
     ]
 )

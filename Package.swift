@@ -4,12 +4,12 @@
 import PackageDescription
 
 let package = Package(
-    name: "SPMFramework01",
+    name: "SPMFramework",
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
-            name: "SPMFramework01",
-            targets: ["SPMFramework01"]),
+            name: "SPMFramework",
+            targets: ["SPMFramework"]),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
@@ -19,10 +19,10 @@ let package = Package(
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
-            name: "SPMFramework01",
+            name: "SPMFramework",
             dependencies: []),
         .testTarget(
-            name: "SPMFramework01Tests",
-            dependencies: ["SPMFramework01"]),
+            name: "SPMFrameworkTests",
+            dependencies: ["SPMFramework"]),
     ]
 )

@@ -23,9 +23,9 @@ Pod::Spec.new do |spec|
 
     spec.source = { :git => 'https://github.com/nagashreepoojari07/SPMFramework.git', :tag => spec.version.to_s}
 
-    spec.ios.vendored_frameworks = "SPMFraamework.framework"
+    spec.ios.vendored_frameworks = "xcframeworks/SPMFraamework.xcframework"
 
-    spec.vendored_frameworks = 'SPMFramework.framework'
+    spec.vendored_frameworks = 'xcframeworks/SPMFramework.xcframework'
 
     spec.ios.deployment_target = '13.0'
 

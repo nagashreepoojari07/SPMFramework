@@ -5,6 +5,10 @@ import PackageDescription
 
 let package = Package(
     name: "SPMFramework",
+    platforms: [
+    // Only add support for iOS 11 and up.
+    .iOS(.v11)
+    ],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
@@ -21,6 +25,10 @@ let package = Package(
         .target(
             name: "SPMFramework",
             dependencies: []),
+        .binaryTarget(
+            name: "SPMFramework", 
+            path: "SPMFramework.framework"
+        ),
         .testTarget(
             name: "SPMFrameworkTests",
             dependencies: ["SPMFramework"]),

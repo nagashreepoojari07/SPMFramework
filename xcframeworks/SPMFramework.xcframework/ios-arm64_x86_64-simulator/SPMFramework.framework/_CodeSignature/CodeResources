@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/SPMFramework-Swift.h</key>
 		<data>
-		YL52tCi9xcIs9eNnIqQureFChtY=
+		ZW8u8C3k8c90ed9cDsdJdXnhQPA=
 		</data>
 		<key>Headers/SPMFramework.h</key>
 		<data>
@@ -16,17 +16,29 @@
 		<data>
 		7NoUgU8ndvWlELYmbR4S7bCZx/c=
 		</data>
-		<key>Modules/SPMFramework.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/SPMFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		gIVSSbHQRsVC8TMqvrSXOA4raWI=
+		GTUVP0QXXAybcIVoVaHMhQZHzkU=
+		</data>
+		<key>Modules/SPMFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		h4Dpy3w3k12WcfkoFB92WNouy0Q=
+		</data>
+		<key>Modules/SPMFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		aNbaajurDX3g6dQHQVM+DQTCAPM=
 		</data>
 		<key>Modules/SPMFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
 		aZwOo2Pj4DAGrsz2J22hkTZoQCI=
 		</data>
+		<key>Modules/SPMFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		XYiXYPuV70Z/haFQ+skB7aoG+D0=
+		</data>
 		<key>Modules/SPMFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		mUgx5Y6dHXCD1vZBk5QWeIYlYgc=
+		HxU2Vc6NS8kYdg2OLP6WIsEtwgo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -39,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SuMWjF/IPzy0InDUCbm8gHv1IO7LZN/PHXLnRmw+REk=
+			pK4G56C2EG25+NtKMzm287Ug7SFqpXsHvSeZyAH0kt0=
 			</data>
 		</dict>
 		<key>Headers/SPMFramework.h</key>
@@ -49,11 +61,25 @@
 			kxwYyxFNmgxiJbQaIoO0yCyLXxeC7kSRmhEocZ2OZ7Y=
 			</data>
 		</dict>
-		<key>Modules/SPMFramework.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/SPMFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ck/mtK3/uOuJzrmBVIxJgHzGLHU1qb2XCK8Rj8LE608=
+			DnZp/6aBnukm84TJZ7hXNDBmrcWMI+MQ1+9KYtemRSU=
+			</data>
+		</dict>
+		<key>Modules/SPMFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RFEXY/TE+jtLfBQN5AAh4XujvwpoU3if7Iiv5mN0X50=
+			</data>
+		</dict>
+		<key>Modules/SPMFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pZ6Ighd+2OTIn22meoj6DiktHJ7vE26zFSqG680ftYM=
 			</data>
 		</dict>
 		<key>Modules/SPMFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -63,11 +89,18 @@
 			6Hbfubq8a6xoC+WlR5v/JKnga56BPB2gcrlTicQE1Zc=
 			</data>
 		</dict>
+		<key>Modules/SPMFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A+sKcrpHmulHH1B3/+Xsr4TSf3EhGzjW5O/rrPbQQ4o=
+			</data>
+		</dict>
 		<key>Modules/SPMFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7U0t9n4xUcj9TdIb5EKEaMCeEBpiCmdaORXnYn460PA=
+			8k3tllHXAyr6nR8JqwC74voP/QscNvPppEOKqGXEbYM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
